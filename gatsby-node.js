@@ -5,6 +5,7 @@ exports.createPages = ({boundActionCreators, graphql}) => {
 
     const postTemplate = path.resolve('src/templates/blog-post.js');
 
+    // graphql
     return graphql(`
         {
             allMarkdownRemark {
