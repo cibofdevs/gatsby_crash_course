@@ -5,4 +5,4 @@ title: "My Thrid Gatsby Post"
 author: "John Doe"
 ---
 
-This is my **thid blog** post in *Gatsby*
+This is my **thrid blog** post in *Gatsby*
